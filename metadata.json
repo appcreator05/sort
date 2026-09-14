@@ -1,0 +1,10 @@
+{
+  "name": "VDOSKy",
+  "description": "VDOSKy - Fast movie portal with Start.io ads, responsive video streaming, and voice search.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
